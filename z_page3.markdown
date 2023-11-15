@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bc
+title: ap-bc
 permalink: /calcbc/
 ---
 
