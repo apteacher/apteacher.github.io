@@ -14,9 +14,9 @@ A = AP Calculus AB :: B = Multivariable Calculus :: F = AP Computer Science A ::
 
 <p align="center"> <img src="/d-img/schedule.png" border="2"> </p>
 
-# office hours
+# contact me
 
-Available by appointment. Contact me at dshubleka@cushing.org or use the form below.
+dshubleka@cushing.org or use the form below.
 
 <center> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfk3MsgYHHCfX69rYixFbnQIuGToOyGh9GlpIXcycYWO-BrWg/viewform?embedded=true" width="600" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> </center>
 
