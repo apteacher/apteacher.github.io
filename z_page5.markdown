@@ -48,6 +48,9 @@ In the classroom space, unless we are engaged in web polling activities, all sma
 
 TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demonstrations will focus on the TI-84 features. Be sure to check the calculator policy on the college board website at <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">this link</a>. In addition to the graphing calculator, we will also use a few CAS applications, so be sure to bring your laptop to class daily.
 
+# office hours
+
+I'm available by appointment. Email me to schedule a time to meet. A web version of my teaching schedule is in the 'about' page.
 
 
 <!-- # notes and feedback - current academic year
