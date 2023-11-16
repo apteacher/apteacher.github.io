@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ap-ab
+title: calculus-ab
 permalink: /calcab/
 ---
 
