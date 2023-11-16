@@ -34,5 +34,5 @@ TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demo
 
 # notes and feedback
 
-<!--  <iframe width="100%" height="2000" style="border: none;" src="https://apteacher.github.io/d-ca-html/csa.html"></iframe> -->
+ <iframe width="100%" height="2000" style="border: none;" src="https://apteacher.github.io/d-ca-html/csa.html"></iframe> 
 
