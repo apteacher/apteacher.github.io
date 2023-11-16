@@ -8,10 +8,7 @@ permalink: /calcbc/
 
 <i>AP Calculus BC follows the curriculum set forth by the College Board. Students who have maintained a high honors average in Honors Precalculus should select this course. Calculus BC is worth the equivalent of two semesters of college credit upon successful completion of the AP examination in May. Students enrolled in this course are required to take this test. Topics covered include functions and graphs, limits of functions, the derivative, examining extrema, anti-derivatives, the definite integral, applications of the definite integral, logarithmic, exponential and trigonometric functions, techniques of integration, indeterminate forms, improper integrals, infinite series and sequences.  </i>
 
-<p align="center"> <img src="/d-img/larson.jpeg"></p>
-
-
----
+<p align="center"> <img src="/d-img/koch.png"></p>
 
 # grading rubric
 
