@@ -18,17 +18,15 @@ permalink: /mvc/
 
 <b>Fall Semester</b>
 
-Homework and Participation: 0%
-
-Quizzes/Assessments/Labs: 80%
-
+Homework and Participation: 0%<br>
+Quizzes/Assessments/Labs: 80%<br>
 Comprehensive Fall Final Exam: 20%
 
 <b>Spring Semester</b>
 
-Homework and Participation: 0%
-
+Homework and Participation: 0%<br>
 Quizzes/Assessments/Labs: 100%
+
 # required
 
 texbook (issued on first day) <br>
