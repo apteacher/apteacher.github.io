@@ -10,8 +10,6 @@ permalink: /mvc/
 
 <p align="center"> <img src="/d-img/mvc.png"></p>
 
----
-
 # grading rubric
 
 <b>Fall Semester</b>
