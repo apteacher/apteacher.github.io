@@ -50,6 +50,7 @@ In the classroom space, unless we are engaged in web polling activities, all sma
 # calculator policy
 
 TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demonstrations will focus on the TI-84 features. Be sure to check the calculator policy on the college board website at <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">this link</a>.
+
 <!-- 
 # notes and feedback - current academic year
 
