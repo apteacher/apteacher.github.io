@@ -10,8 +10,6 @@ permalink: /csa/
 
 <p align="center"> <img src="/d-img/csa.png"></p>
 
----
-
 # grading rubric
 
 <b>Fall Semester</b>
