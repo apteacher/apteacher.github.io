@@ -3,7 +3,7 @@ layout: home
 title: home
 ---
 
-I teach upper-level mathematics and computer science at Cushing Academy, an independent boarding school in north-central Massachusetts, USA. The information on this site is intended for my current students.
+I teach upper-level mathematics and computer science at Cushing Academy, an independent boarding school in Massachusetts, United States. The information on this site is supplementary course content for my current students.
 
 <p align="center"> <img src="/d-img/ca.jpg" border="2"> </p>
 <br>
