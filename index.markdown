@@ -35,12 +35,12 @@ Quizzes/Assessments/Labs: 100%
 
 # required
 
-texbook (issued on first day)
-notebook or note-taking devices with all notifications turned off
-writing utensils
-laptop with working wifi connection
-study guide
-graphing calculator
+texbook (issued on first day) <br>
+notebook or note-taking devices with all notifications turned off<br>
+writing utensils <br>
+laptop with working wireless connection <br>
+study guide <br>
+graphing calculator 
 
 # attendance
 
