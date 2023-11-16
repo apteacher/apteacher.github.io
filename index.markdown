@@ -1,7 +1,6 @@
 ---
 layout: home
 title: calculus-ab
-permalink: /calcab/
 ---
 
 # course description
