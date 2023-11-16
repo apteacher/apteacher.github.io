@@ -20,15 +20,11 @@ Frequent and Unannounced Quizzes/Assessments/Labs: 80%
 
 Comprehensive Fall Final Exam: 20%
 
-
-
 <b>Spring Semester</b>
 
 Homework and Participation: 0%
 
 Frequent and Unannounced Quizzes/Assessments/Labs: 100%
-
----
 
 # calculator policy
 
