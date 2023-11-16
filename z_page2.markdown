@@ -8,9 +8,7 @@ permalink: /calcab/
 
 <i>AP Calculus AB follows the curriculum set forth by the College Board. Students who have maintained a strong honors average in Honors Precalculus should select this course. Calculus AB is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Students enrolled in this course are required to take this test. Topics covered include functions and graphs, limits of functions, the derivative, examining extrema, antiderivatives, the definite integral, applications of the definite integral, and logarithmic, exponential and trigonometric functions. </i> <br>
 
-<p align="center"> <img src="/d-img/larson.jpeg"></p>
-
----
+<p align="center"> <img src="/d-img/squeeze.png"></p>
 
 # grading rubric
 
