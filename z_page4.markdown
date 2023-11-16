@@ -28,7 +28,7 @@ Frequent and Unannounced Quizzes/Assessments/Labs: 100%
 
 # calculator policy
 
-TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demonstrations will focus on the TI-84 features. Be sure to check the calculator policy on the college board website at <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">this link</a>. The calculator generally won't be required in class, except possibly for certain projects.
+TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demonstrations will focus on the TI-84 features. Be sure to check the calculator policy on the college board website at <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">this link</a>. The calculator generally won't be required in class, except for a limited number of projects.
 
 ---
 
