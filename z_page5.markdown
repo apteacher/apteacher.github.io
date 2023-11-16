@@ -35,7 +35,8 @@ Quizzes/Assessments/Labs: 100%
 TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demonstrations will focus on the TI-84 features. Be sure to check the calculator policy on the college board website at <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">this link</a>. In addition to the graphing calculator, we will also use a few CAS applications, so be sure to bring your laptop to class daily.
 
 
-# notes and feedback - current academic year
+
+<!-- # notes and feedback - current academic year
 
  <iframe width="100%" height="2000" style="border: none;" src="https://apteacher.github.io/d-ca-html/mvc.html"></iframe>
-
+-->
