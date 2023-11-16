@@ -1,20 +1,43 @@
 ---
 layout: home
-title: home
+title: calculus-ab
+permalink: /calcab/
 ---
 
-I teach upper-level mathematics and computer science at Cushing Academy, an independent boarding school in Massachusetts, United States. This website contains course-related information for my current students.
+# course description
 
-<p align="center"> <img src="/d-img/ca.jpg" border="2"> </p>
-<br>
+<i>AP Calculus AB follows the curriculum set forth by the College Board. Students who have maintained a strong honors average in Honors Precalculus should select this course. Calculus AB is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Students enrolled in this course are required to take this test. Topics covered include functions and graphs, limits of functions, the derivative, examining extrema, antiderivatives, the definite integral, applications of the definite integral, and logarithmic, exponential and trigonometric functions. </i> <br>
 
-# course schedule
+<p align="center"> <img src="/d-img/squeeze.png"></p>
 
-A = AP Calculus AB :: B = Multivariable Calculus :: F = AP Computer Science A :: G1 = AP Calculus BC
+# links
 
-<p align="center"> <img src="/d-img/schedule.png" border="2"> </p>
+[ <a href="https://cushing.myschoolapp.com/" target="_blank">course portal: assignments, downloads etc.</a> ]
 
-# contact me
+[ <a href="https://myap.collegeboard.org/login" target="_blank">ap classroom: resources from the collegeboard</a> ]
 
-<center> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfk3MsgYHHCfX69rYixFbnQIuGToOyGh9GlpIXcycYWO-BrWg/viewform?embedded=true" width="600" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> </center>
+# grading rubric
 
+<b>Fall Semester</b>
+
+Homework and Participation: 0%
+
+Quizzes/Assessments/Labs: 80%
+
+Comprehensive Fall Final Exam: 20%
+
+<b>Spring Semester</b>
+
+Homework and Participation: 0%
+
+Quizzes/Assessments/Labs: 100%
+
+# calculator policy
+
+TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demonstrations will focus on the TI-84 features. Be sure to check the calculator policy on the college board website at <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">this link</a>.
+
+---
+
+# notes and feedback
+
+ <iframe width="100%" height="2000" style="border: none;" src="https://apteacher.github.io/d-ca-html/ab.html"></iframe>
