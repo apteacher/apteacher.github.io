@@ -28,10 +28,6 @@ Homework and Participation: 0%
 
 Frequent and Unannounced Quizzes/Assessments/Labs: 100%
 
-Note 1:   Daily preparation is key to your success, so please do not underestimate its importance. 
-
-Note 2:  For AP courses there is no final exam in the spring since the AP Exam is required.
-
 ---
 
 # calculator policy
