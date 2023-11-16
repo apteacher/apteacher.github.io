@@ -29,6 +29,22 @@ Comprehensive Fall Final Exam: 20%
 Homework and Participation: 0%
 
 Quizzes/Assessments/Labs: 100%
+# required
+
+texbook (issued on first day) <br>
+notebook or note-taking devices with all notifications turned off<br>
+writing utensils <br>
+laptop with working wireless connection <br>
+study guide <br>
+graphing calculator 
+
+# attendance
+
+If you must be absent and you know ahead of time, then let me know and I will try to refer you to the topic to be covered that day. You are responsible for obtaining missed notes and other class details from your classmates. Given the pace of the curriculum, I must inform you that one missed class meeting can have a big impact on a student’s progress in this course.
+
+# smart devices policy
+
+In the classroom space, unless we are engaged in web polling activities, all smart devices should be stored in the school bag and on mute/vibrate.
 
 # calculator policy
 
