@@ -10,13 +10,17 @@ permalink: /mvc/
 
 <p align="center"> <img src="/d-img/mvc.png"></p>
 
+# links
+
+[ <a href="https://cushing.myschoolapp.com/" target="_blank">course portal: assignments, downloads etc.</a> ]
+
 # grading rubric
 
 <b>Fall Semester</b>
 
 Homework and Participation: 0%
 
-Frequent and Unannounced Quizzes/Assessments/Labs: 80%
+Quizzes/Assessments/Labs: 80%
 
 Comprehensive Fall Final Exam: 20%
 
@@ -24,7 +28,7 @@ Comprehensive Fall Final Exam: 20%
 
 Homework and Participation: 0%
 
-Frequent and Unannounced Quizzes/Assessments/Labs: 100%
+Quizzes/Assessments/Labs: 100%
 
 # calculator policy
 
