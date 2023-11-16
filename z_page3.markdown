@@ -55,9 +55,7 @@ TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demo
 I'm available by appointment. Email me to schedule a time to meet. A web version of my teaching schedule is in the 'about' page.
 
 
-<!--
-# notes and feedback - current academic year
+# my notes and feedback - current academic year
 
 <iframe width="100%" height="2000" style="border: none;" src="https://apteacher.github.io/d-ca-html/bc.html"></iframe>
 
--->
