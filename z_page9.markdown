@@ -1,6 +1,7 @@
 ---
 layout: page
 title: about
+permalink: /about/
 ---
 
 I teach upper-level mathematics and computer science at Cushing Academy, an independent boarding school in Massachusetts, United States. This website contains course-related information for my current students.
