@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mvc
+title: multivariable
 permalink: /mvc/
 ---
 
