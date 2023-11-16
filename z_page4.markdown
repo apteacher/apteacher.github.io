@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ap-csa
+title: compsci-a
 permalink: /csa/
 ---
 
