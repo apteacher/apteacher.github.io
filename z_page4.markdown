@@ -40,7 +40,7 @@ graphing calculator
 
 # attendance
 
-If you must be absent and you know ahead of time, then let me know and I will try to refer you to the topic to be covered that day. You are responsible for obtaining missed notes and other class details from your classmates. Given the pace of the curriculum, I must inform you that one missed class meeting can have a big impact on a student’s progress in this course.
+If you must be absent and you know ahead of time, then let me know and I will try to refer you to the topic to be covered that day. You are responsible for obtaining missed notes and other class details from your classmates. Given the pace of the curriculum, I must inform you that one missed class meeting can have a big impact on your progress in this course.
 
 # smart devices policy
 
@@ -56,7 +56,7 @@ TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demo
 
 # office hours
 
-I'm available by appointment. Email me to schedule a time to meet. A web version of my teaching schedule is in the 'about' page.
+I'm available by appointment. Email me to schedule a time to meet.
 
 <!-- # notes and feedback - current academic year
 
