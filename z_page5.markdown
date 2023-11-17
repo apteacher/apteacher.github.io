@@ -12,7 +12,7 @@ permalink: /mvc/
 
 # links
 
-[ <a href="https://cushing.myschoolapp.com/" target="_blank">course portal: assignments, downloads etc.</a> ]
+coming soon...
 
 # grading rubric
 
