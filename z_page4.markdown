@@ -12,8 +12,6 @@ permalink: /csa/
 
 # links
 
-[ <a href="https://cushing.myschoolapp.com/" target="_blank">course portal: assignments, downloads etc.</a> ]
-
 [ <a href="https://myap.collegeboard.org/login" target="_blank">ap classroom: resources from the collegeboard</a> ]
 
 # grading rubric
