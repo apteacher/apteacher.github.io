@@ -46,6 +46,9 @@ If you must be absent and you know ahead of time, then let me know and I will tr
 
 All smart devices should be stored in the school bag and on mute/vibrate.
 
+# language
+
+Unless there is a need to interpret an unfamiliar term or phrase, all conversations in the classroom space shall be held in English.
 
 # calculator policy
 
