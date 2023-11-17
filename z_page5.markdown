@@ -54,7 +54,7 @@ TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demo
 
 # office hours
 
-I'm available by appointment. Email me to schedule a time to meet. A web version of my teaching schedule is in the 'about' page.
+I'm available by appointment. Email me to schedule a time to meet.
 
 
 <!-- # notes and feedback - current academic year
