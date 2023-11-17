@@ -44,7 +44,7 @@ If you must be absent and you know ahead of time, then let me know and I will tr
 
 # smart devices policy
 
-In the classroom space, unless we are engaged in web polling activities, all smart devices should be stored in the school bag and on mute/vibrate.
+All smart devices should be stored in the school bag and on mute/vibrate.
 
 
 # calculator policy
