@@ -44,7 +44,7 @@ If you must be absent and you know ahead of time, then let me know and I will tr
 
 # smart devices policy
 
-All smart devices should be stored in the school bag and on mute/vibrate.
+All smart phones/watches should be stored in the school bag and on mute/vibrate.
 
 # language
 
