@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-I teach upper-level mathematics and computer science at an independent boarding school in Massachusetts, United States. For now, this site contains general info about my current subjects.
+I teach upper-level mathematics and computer science at an independent boarding school in Massachusetts, United States. This site contains current course information.
 
 <p align="center"> <img src="/d-img/ca.jpg" border="2"> </p>
 <br>
