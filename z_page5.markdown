@@ -6,7 +6,7 @@ permalink: /mvc/
 
 # course description
 
-<i>Multivariable Calculus extends differential and integral calculus concepts to functions in the two-dimensional and three-dimensional spaces. The topics include vectors, dot products, cross products, equations of lines and planes, equations of surfaces; vector-valued functions, derivatives and integrals of vector-valued functions, basics of space curves, arclength and curvature; functions of several variables, partial derivatives, tangent planes, chain rule, directional derivatives, the gradient vector, maxima and minima, saddle points, Lagrange multipliers; double integrals in Cartesian and polar coordinates, triple integrals in cylindrical and spherical coordinates. Depending on student interest, the curriculum may include advanced calculus concepts such as vector fields, line integrals, and applications from a wide variety of scientific disciplines or content from logic, proof methods, set theory, and relations. </i>
+<i>Multivariable Calculus extends differential and integral calculus concepts to functions in in two or more variables. The topics include vectors, dot products, cross products, equations of lines and planes, surfaces, vector-valued functions, derivatives and integrals of vector-valued functions, space curves, partial and directional derivatives, extrema, double and triple integrals, etc. The curriculum may include concepts such as vector fields, line integrals, applications from the natural sciences or content from abstract mathematics topics. </i>
 
 <p align="center"> <img src="/d-img/mvc.png"></p>
 
