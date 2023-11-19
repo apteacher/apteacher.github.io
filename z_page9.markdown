@@ -1,13 +1,8 @@
 ---
 layout: page
-title: about/schedule
+title: schedule
 permalink: /about/
 ---
-
-I teach upper-level mathematics and computer science at an independent boarding school in Massachusetts, United States. This site contains individual pages for each of my current teaching assignments.
-
-<p align="center"> <img src="/d-img/ca.jpg" border="2"> </p>
-<br>
 
 A = AP Calculus AB :: B = Multivariable Calculus :: F = AP Computer Science A :: G1 = AP Calculus BC
 
