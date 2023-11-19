@@ -43,19 +43,12 @@ If you must be absent and you know ahead of time, then let me know and I will tr
 
 # smart devices policy
 
-All smart phones/watche should be stored in the school bag and on mute/vibrate.
-
-# language
-
-Unless there is a need to interpret an unfamiliar term or phrase, all conversations in the classroom space shall be held in English.
+All smart phones/watches should be stored in the school bag and on mute/vibrate.
 
 # calculator policy
 
 TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demonstrations will focus on the TI-84 features. Be sure to check the calculator policy on the college board website at <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">this link</a>.
 
-# office hours
-
-I'm available by appointment. Email me to schedule a time to meet. 
 
 <!-- 
 # my notes and feedback - current academic year
