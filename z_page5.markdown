@@ -19,14 +19,14 @@ Quizzes/Assessments/Labs: 100%<i> (Frequent, relatively short, and announced qui
 Final Exam: 0% <i>(Non-AP courses may write a final exam worth 20%.)</i>
 
 
-# bring to class daily
+# books and learning tools
 
 texbook (issued on first day) <br>
 notebook or note-taking devices with all notifications turned off<br>
 writing utensils <br>
 laptop with working wireless connection <br>
-study guide <br>
-graphing calculator 
+ap study guide <br>
+graphing calculator (see approved models below)
 
 # attendance
 
@@ -38,7 +38,7 @@ All smart phones/watches should be stored in the school bag and on mute/vibrate.
 
 # spoken language
 
-Unless there is a need to interpret a new word, we are expected to speak English in the classroom space.
+We are expected to speak English in the classroom space.
 
 # calculators
 
