@@ -6,7 +6,7 @@ permalink: /about/
 
 
 # schedule 
-<p align="center">A = AP Calculus AB :: B = Multivariable Calculus :: F = AP Computer Science A :: G1 = AP Calculus BC<br><i>Note: The course portal will reflect any schedule changes.</i></p>
+<p align="center">A = AP Calculus AB :: B = Multivariable Calculus :: F = AP Computer Science A :: G1 = AP Calculus BC</p>
 
 <p align="center"> <img src="/d-img/schedule.png" border="2"> </p>
 
