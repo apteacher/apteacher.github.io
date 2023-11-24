@@ -1,9 +1,8 @@
 ---
 layout: page
 title: schedule
-permalink: /about/
+permalink: /schedule/
 ---
-
 
 
 # schedule 
