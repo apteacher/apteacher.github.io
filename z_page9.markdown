@@ -7,9 +7,7 @@ permalink: /about/
 
 
 # schedule 
-A = AP Calculus AB :: B = Multivariable Calculus :: F = AP Computer Science A :: G1 = AP Calculus BC
-
-Note: The <a href="https://cushing.myschoolapp.com" target="_blank">course portal</a>  will reflect any schedule changes.
+<p align="center">A = AP Calculus AB :: B = Multivariable Calculus :: F = AP Computer Science A :: G1 = AP Calculus BC<br><i>Note: The course portal will reflect any schedule changes.</i></p>
 
 <p align="center"> <img src="/d-img/schedule.png" border="2"> </p>
 
