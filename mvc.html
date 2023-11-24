@@ -4,16 +4,38 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title></title>
+	<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 </head>
 
 <script src="./d-scripts/w3.js"></script>
 <body>
+	<div w3-include-html="https://apteacher.github.io/d-ca-html/mvc.html"></div>
+	<center>
+		<input type="password" placeholder="passcode" id="tutorial">
+		<button onclick="protectpasscode()">Proceed</button>
+		<script>
+		   function protectpasscode() {
+			  const result = document.getElementById("tutorial").value;
+			  let passcode = 1865;
+			  let space = '';
+			  if (result == space) {
+				 alert("Type passcode")
+			  } else {
+				 if (result == passcode) {
+					w3.includeHTML();
+				 } else {
+					alert("Incorrect Passcode");
+					location.reload();
+				 }
+			  }
+		   }
+		</script>
+	 </center>
 
-<div w3-include-html="https://apteacher.github.io/d-ca-html/mvc.html"></div>
 
 
-<script>
-w3.includeHTML();
-</script>
+
 </body>
 </html>
