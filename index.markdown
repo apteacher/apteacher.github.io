@@ -1,57 +1,22 @@
 ---
 layout: home
-title: calculus-ab
+title: courses
 ---
 
-# course description
 
-<i> AP Calculus AB follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Students enrolled in this course are required to take this test. Topics covered include library of functions, limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc. </i>
-
-<p align="center"> <img src="/d-img/squeeze.png"></p>
-
-# links
-
-[ <a href="https://myap.collegeboard.org/login" target="_blank">ap classroom: resources from the collegeboard</a> ]
+<b>AP Calculus AB</b> follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Students enrolled in this course are required to take this test. Topics covered include library of functions, limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc. 
 
 
+<b>AP Calculus BC</b> follows the curriculum set forth by the College Board. It is worth the equivalent of two semesters of college credit upon successful completion of the AP examination in May. Students enrolled in this course are required to take this test. Topics covered include library of functions, limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, techniques of integration, infinite series and sequences, etc. 
 
-# grading rubric
+<b>Multivariable Calculus</b> extends differential and integral calculus concepts to functions in two or more variables. The topics include vectors, dot products, cross products, equations of lines and planes, surfaces, vector-valued functions, derivatives and integrals of vector-valued functions, space curves, partial and directional derivatives, extrema, double and triple integrals, etc. The curriculum may include concepts such as vector fields, line integrals, applications from the natural sciences or content from abstract mathematics topics.
 
-<b>Fall Semester</b>
-
-Homework and Participation: 0%<br>
-Quizzes/Assessments/Labs: 80%<br>
-Comprehensive Fall Final Exam: 20%
-
-<b>Spring Semester</b>
-
-Homework and Participation: 0%<br>
-Quizzes/Assessments/Labs: 100%
-
-# required
-
-texbook (issued on first day) <br>
-notebook or note-taking devices with all notifications turned off<br>
-writing utensils <br>
-laptop with working wireless connection <br>
-study guide <br>
-graphing calculator 
-
-# attendance
-
-If you must be absent and you know ahead of time, then let me know and I will try to refer you to the topic to be covered that day. You are responsible for obtaining missed notes and other class details from your classmates. Given the pace of the curriculum, I must inform you that one missed class meeting can have a big impact on your progress in this course.
-
-# smart devices policy
-
-All smart phones/watches should be stored in the school bag and on mute/vibrate.
-
-# calculator policy
-
-TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demonstrations will focus on the TI-84 features. Be sure to check the calculator policy on the college board website at <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">this link</a>.
+<b>AP Computer Science A</b> is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other technical fields such as engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions, as well as a detailed examination of a large case study program. Instruction includes preparation for the AP Computer Science A exam. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language that they are taught in college.
 
 
-<!-- 
-# my notes and feedback - current academic year
+# schedule 
+A = AP Calculus AB :: B = Multivariable Calculus :: F = AP Computer Science A :: G1 = AP Calculus BC
 
- <iframe width="100%" height="2000" style="border: none;" src="https://apteacher.github.io/d-ca-html/ab.html"></iframe>
--->
+<p align="center"> <img src="/d-img/schedule.png" border="2"> </p>
+
+# contact me

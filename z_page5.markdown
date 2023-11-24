@@ -1,31 +1,8 @@
 ---
 layout: page
-title: multivariable
-permalink: /mvc/
+title: expectations
+permalink: /expectations/
 ---
-
-# course description
-
-<i>Multivariable Calculus extends differential and integral calculus concepts to functions in two or more variables. The topics include vectors, dot products, cross products, equations of lines and planes, surfaces, vector-valued functions, derivatives and integrals of vector-valued functions, space curves, partial and directional derivatives, extrema, double and triple integrals, etc. The curriculum may include concepts such as vector fields, line integrals, applications from the natural sciences or content from abstract mathematics topics. </i>
-
-<p align="center"> <img src="/d-img/mvc.png"></p>
-
-# links
-
-coming soon...
-
-# grading rubric
-
-<b>Fall Semester</b>
-
-Homework and Participation: 0%<br>
-Quizzes/Assessments/Labs: 80%<br>
-Comprehensive Fall Final Exam: 20%
-
-<b>Spring Semester</b>
-
-Homework and Participation: 0%<br>
-Quizzes/Assessments/Labs: 100%
 
 # required
 
@@ -47,8 +24,3 @@ All smart phones/watches should be stored in the school bag and on mute/vibrate.
 # calculator policy
 
 TI-83/84/89/NSPIRE are recommended graphing calculator models. The in-class demonstrations will focus on the TI-84 features. Be sure to check the calculator policy on the college board website at <a href="https://apstudents.collegeboard.org/exam-policies-guidelines/calculator-policies" target="_blank">this link</a>. In addition to the graphing calculator, we will also use a few CAS applications, so be sure to bring your laptop to class daily.
-
-<!-- # notes and feedback - current academic year
-
- <iframe width="100%" height="2000" style="border: none;" src="https://apteacher.github.io/d-ca-html/mvc.html"></iframe>
--->
