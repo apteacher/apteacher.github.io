@@ -20,7 +20,6 @@ Final Exam (0%) <i> Non-AP courses may write a comprehensive final exam worth 20
 
 <p align="center"> <img src="/d-img/ap.png" border="0"> </p>
 
-
 # bring to class daily
 
 texbook (issued on first day) <br>
