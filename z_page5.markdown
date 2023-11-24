@@ -4,6 +4,12 @@ title: expectations
 permalink: /info/
 ---
 
+
+
+<table width="100%" border="0">
+<tr> 
+<td width="50%">
+
 # grades
 
 <b>Fall Semester</b>
@@ -16,6 +22,14 @@ Comprehensive Fall Final Exam: 20%
 
 Homework and Participation: 0%<br>
 Quizzes/Assessments/Labs: 100%
+
+</td>
+<td width="50%">
+<p align="center"> <img src="/d-img/ap.png" border="0"> </p>
+</td>
+</tr>
+</table>
+
 
 # bring to class
 
