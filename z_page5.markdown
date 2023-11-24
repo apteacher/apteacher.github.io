@@ -1,37 +1,27 @@
 ---
 layout: page
-title: expectations
+title: syllabus
 permalink: /info/
 ---
 
-
-
-<table width="100%" border="0">
-<tr> 
-<td width="50%">
-
-# grades
+# grading
 
 <b>Fall Semester</b>
 
-Homework and Participation: 0%<br>
-Quizzes/Assessments/Labs: 80%<br>
-Comprehensive Fall Final Exam: 20%
+Homework and Participation: 0%<br> (Be sure to complete the nightly homework and any assigned reading.)
+Quizzes/Assessments/Labs: 80%<br> (Frequent, relatively short, and announced quizzes.)
+Comprehensive Fall Final Exam: 20% 
 
 <b>Spring Semester</b>
 
 Homework and Participation: 0%<br>
 Quizzes/Assessments/Labs: 100%
+Final Exam (0%) <i> Non-AP courses may write a comprehensive final exam worth 20% of the semester grade.)</i>
 
-</td>
-<td width="50%">
 <p align="center"> <img src="/d-img/ap.png" border="0"> </p>
-</td>
-</tr>
-</table>
 
 
-# bring to class
+# bring to class daily
 
 texbook (issued on first day) <br>
 notebook or note-taking devices with all notifications turned off<br>
@@ -46,7 +36,11 @@ If you must be absent and you know ahead of time, then let me know and I will tr
 
 # smart devices
 
-All smart phones/watches should be stored in the school bag and on mute/vibrate.
+All smart phones/watches should be stored in the school bag and on mute/vibrate. I will announce ahead of time when we plan to use smart devices for learning purposes.
+
+# spoken language
+
+Unless there is a need to interpret a new word, the expectation is that we all speak English in the classroom space.
 
 # calculators
 
