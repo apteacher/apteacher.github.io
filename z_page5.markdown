@@ -17,8 +17,6 @@ Comprehensive Fall Final Exam: 20%
 Homework and Participation: 0%<br>
 Quizzes/Assessments/Labs: 100%
 
-<i> Note: The current grade in the course portal will be updated at least once a week. </i> 
-
 # bring to class
 
 texbook (issued on first day) <br>
