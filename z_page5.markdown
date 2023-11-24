@@ -1,6 +1,6 @@
 ---
 layout: page
-title: info
+title: expectations
 permalink: /info/
 ---
 
