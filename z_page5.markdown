@@ -8,17 +8,16 @@ permalink: /info/
 
 <b>Fall Semester</b>
 
-Homework and Participation: 0%<br> (Be sure to complete the nightly homework and any assigned reading.)
-Quizzes/Assessments/Labs: 80%<br> (Frequent, relatively short, and announced quizzes.)
-Comprehensive Fall Final Exam: 20% 
+Homework and Participation: 0% <i>(Be sure to complete the nightly homework and any assigned reading.) </i> <br>
+Quizzes/Assessments/Labs: 80%<i> (Frequent, relatively short, and announced quizzes.)</i> <br>
+Comprehensive Fall Final Exam: 20%  <br>
 
 <b>Spring Semester</b>
 
-Homework and Participation: 0%<br>
-Quizzes/Assessments/Labs: 100%
-Final Exam (0%) <i> Non-AP courses may write a comprehensive final exam worth 20% of the semester grade.)</i>
+Homework and Participation: 0%<i>(Be sure to complete the nightly homework and any assigned reading.) </i> <br>
+Quizzes/Assessments/Labs: 100%<i> (Frequent, relatively short, and announced quizzes.)</i> <br>
+Final Exam: (0%) <i> Non-AP courses may write a comprehensive final exam worth 20% of the semester grade.</i>
 
-<p align="center"> <img src="/d-img/ap.png" border="0"> </p>
 
 # bring to class daily
 
@@ -39,7 +38,7 @@ All smart phones/watches should be stored in the school bag and on mute/vibrate.
 
 # spoken language
 
-Unless there is a need to interpret a new word, the expectation is that we all speak English in the classroom space.
+Unless there is a need to interpret a new word, we are expected to speak English in the classroom space.
 
 # calculators
 
