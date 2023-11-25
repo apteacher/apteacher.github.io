@@ -19,7 +19,7 @@ Quizzes/Assessments/Labs: 100%<i> (Frequent, relatively short, and announced qui
 Final Exam: 0% <i>(Non-AP courses may write a final exam worth 20%.)</i>
 
 
-# books and learning tools
+# learning tools
 
 texbook (issued on first day) <br>
 notebook or note-taking devices with all notifications turned off<br>
