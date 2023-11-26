@@ -1,6 +1,6 @@
 ---
 layout: page
-title: syllabus
+title: overview
 permalink: /info/
 ---
 
