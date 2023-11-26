@@ -16,7 +16,7 @@ Comprehensive Fall Final Exam: 20%  <br>
 
 Homework and Participation: 0% <br>
 Quizzes/Assessments/Labs: 100%<br>
-Final Exam: 0% <i>(no spring final exam for AP courses)</i>
+Final Exam: 0% (no spring final exam for AP courses)
 
 
 # learning tools
