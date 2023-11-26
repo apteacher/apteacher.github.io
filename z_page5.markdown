@@ -15,7 +15,7 @@ Comprehensive Fall Final Exam: 20%  <br>
 <b>Spring Semester</b>
 
 Homework and Participation: 0% <br>
-Quizzes/Assessments/Labs: 100%<i> <br>
+Quizzes/Assessments/Labs: 100%<br>
 Final Exam: 0% <i>(no spring final exam for AP courses)</i>
 
 
