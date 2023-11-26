@@ -8,15 +8,15 @@ permalink: /info/
 
 <b>Fall Semester</b>
 
-Homework and Participation: 0% <i>(Complete the nightly homework and any assigned reading.) </i> <br>
-Quizzes/Assessments/Labs: 80%<i> (Frequent, relatively short, and announced quizzes.)</i> <br>
+Homework and Participation: 0% <br>
+Quizzes/Assessments/Labs: 80%<br>
 Comprehensive Fall Final Exam: 20%  <br>
 
 <b>Spring Semester</b>
 
-Homework and Participation: 0%<i>(Complete the nightly homework and any assigned reading.) </i> <br>
-Quizzes/Assessments/Labs: 100%<i> (Frequent, relatively short, and announced quizzes.)</i> <br>
-Final Exam: 0% <i>(Non-AP courses may write a final exam worth 20%.)</i>
+Homework and Participation: 0% <br>
+Quizzes/Assessments/Labs: 100%<i> <br>
+Final Exam: 0% <i>(no spring final exam for AP courses)</i>
 
 
 # learning tools
