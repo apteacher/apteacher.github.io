@@ -4,6 +4,9 @@ title: about
 permalink: /about/
 ---
 
+# office hours
+
+Available by appointment most mornings (8am-8:30am) or during shared "free" block. Reach out via email or ask me in person and we'll schedule a time to meet.
 
 # schedule 
 <p align="center">A = AP Calculus AB :: B = Multivariable Calculus :: F = AP Computer Science A :: G1 = AP Calculus BC</p>
