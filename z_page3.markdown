@@ -13,5 +13,5 @@ permalink: /csa/
 <p id="placeholder" align="center"> <b> notes go here </b> </p>
 
 <p id='notes' style='display:none;'>		
-<iframe src="https://apteacher.github.io/courses/z-csa.html" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://apteacher.github.io/courses/index-csa.html" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </p>
