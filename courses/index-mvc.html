@@ -72,7 +72,353 @@
 <div class="container-fluid text-left" id="notes">
   <h2>notes / updates</h2>
   <hr>
-  <div w3-include-HTML="z-mvc.html"></div> 
+  <b> November 30, 2023 | About the final exam </b> <br>
+
+Our final exam will be comprehensive and worth 20% of the fall semester grade. The precise exam format is unknown at this time but will likely resemble the quizzes and could possibly include true/false/justify questions that test our conceptual understanding.
+ 
+<br>
+The list of topics below is general and not meant to include every single idea we discussed in class:<br>
+-the three-dimensional space <br>
+-points, distance formula, spheres <br>
+-lines and their equations<br>
+-planes and their equations <br>
+-quadric surfaces <br>
+-cylindrical and spherical coordinates <br>
+-the dot product <br>
+-projections <br>
+-the cross product <br>
+-vector-valued functions<Br>
+-calculus of vector-valued functions <br>
+-arclength <br>
+-arclength parametrization <br>
+-TNB, ...
+ <br><br>
+
+
+
+<hr>
+<b> November 9, 2023 | Notes on Recent Quiz </b> <br>
+
+P1 <br>
+a) <br>
+The curve is an ellipse centered at the origin and the equation is: <br>
+\( \frac{y^2}{4} + \frac{z^2}{9} = 1 \) <br>
+The major (z-direction) and minor (x-direction) axes are 9 and 4, respectively. <br>
+b) <br>
+  \( \vec{r'(t)} = <-2 \sin(t), 3 \cos(t)> , \vec{r''(t)} = <-2 \cos(t), -3 \sin(t)> \) <br>
+  \( |\vec{r'(t)}| = \sqrt{4 + 5\cos^2 t} \), so the minimum and maximum are 2 and 3. Those occur when cosine is 0 and 1, respectively. <br>
+  \( |\vec{r''(t)}| = \sqrt{4 + 5\sin^2 t} \), so the minimum and maximum are 2 and 3. Those occur when sine is 0 and 1, respectively. <br>
+P2 <br>
+a)  Use integration by parts twice. This was the messiest of the three. <br>
+Final answer: \( < \frac{-(\cos(t)+\sin(t))}{2 e^t},\frac{\sin(t)-\cos(t)}{2 e^t}> + \vec{C} \) <br>
+b) Final answer: \( < \sqrt{2}-1, \frac{\ln 2}{2}, \frac{1}{2} > \) <br>
+c) Final answer: \( < e^{2t} \frac{2t-1}{4}, -t -\ln(1-t), \arcsin t > + \vec{C} \) <br><br>
+<hr>
+<b> November 7, 2023 | Notes on Recent Quiz </b> <br>
+
+P1 <br>
+In problem 1, find the derivative of the vector-valued function: <br>
+\( \vec{r'(t)} = < -2\sin t, 2\cos t, e^t > \) <br />
+Read the normal vector to the plane: \( \vec{n} = < \sqrt{3}, 1, 0 > \) <br> 
+Set the dot product of the two vector expressions above equal to zero, to find: <br>
+\( \tan t = \frac{\sqrt{3}}{3} \rightarrow t = \frac{\pi}{6} \) <br>
+
+The wanted point is \( (\sqrt{3}, 1, e^{\pi/6}) \) <br><br>
+
+P2 <br>
+To parametrize the intersection, we can simply set \( x=t \) or look for an option that uses trigonometric functions. <br>
+with the first option, we get: \( \vec{r(t)} = < t, \sqrt{25-t^2}, \sqrt{t^2-5} > \) <br>
+Find the derivative and then evaluate at t=3, to get: \( \vec{r'(3)} = < 1, -3/4, 3/2 > \) <br>
+
+The vector equation of the tangent line is: \( < x, y, z > = < 3+t, 4-3t/4, 2+3t/2 > \) <br> <br>
+
+Alternatively, for a trig parametrization, we start with the second equation and set: <br>
+\( y=\sqrt{20} \cos t, z=\sqrt{20}\sin t \), the first component becomes: \( x=\sqrt{25-20\cos^2t} \) <br>
+Finding the specific t value isn't necessary with this approach, because with the coordinates (3,4,2), we get: \( \cos t = \frac{2}{\sqrt{5}}, \sin t=\frac{1}{\sqrt{5}} \), <br>
+which can be plugged into the derivative's components directly, without using the inverse. <br>
+\( x'(t^{*}) = 8/3, y'(t^{*})=-2, x'(t^{*})=4  \) <br>
+Note the this direction vector is a multiple of the one we found with the first approach.
+
+
+<!-- 
+The SAGE code is below. Feel free to adjust the viewing window.
+
+<pre>
+<code class="language-python">
+t = var('t')
+
+r(t)=vector((sqrt(25-20*(cos(t))^2),sqrt(20)*cos(t),sqrt(20)*sin(t)))
+r2(t) = vector((3+8*t/3,4-2*t,2+4*t))
+p1=parametric_plot3d(r2(t),(t,0,5))
+p1 += parametric_plot3d(r(t),(t,0,5))
+p1
+</code>
+</pre>
+<br> <br>
+
+-->
+
+
+<hr>
+<b> October 27, 2023 | Quiz Notes </b> <br>
+Below find some quiz notes. Graded work will be returned in class. If there are mistakes or typos below, feel free to email me. <br>
+
+P1 <br>
+Let point P have coordinates \( (x, y, z)  \). Translating the condition about distance into an equation, we get: <br />
+
+\( |y-1| = 2 \sqrt{x^2+(y+1)^2 + z^2} \) <br />
+Square both sides, to get: <br>
+\( y^2-2y + 1 = 4x^2 + 4z^2 + 4y^2+8y+4 \)  <br />
+\( 4x^2 + 3y^2 + 10y + 4z^2 = -3 \) <br />
+Complete the square for all three variables:  <br /> 
+\( 4x^2 + 3(y^2 + 2*5y/3 + 25/9) + 4z^2 = -3 + 3*25/9 = 16/3 \) <br />
+\( \frac{x^2}{4/3} + \frac{(y+5/3)^2}{16/9} + \frac{z^2}{4/3} = 1 \) <br />
+
+The points P describe an ellipsoid centered at (0, -5/3, 0). <br /> <br />
+
+<!--
+<center>
+<iframe src="https://www.desmos.com/3d/52016ca887?embed" width="600" height="600" style="border: 1px solid #ccc" frameborder=0></iframe>
+</center>
+-->
+	
+
+P2 <br>
+Surface 1: \( x^2 + 2y^2-z^2 + 3x = 1 \) <br>
+Surface 2: \( 2x^2 + 4y^2-2z^2 - 5y = 0 \) <br>
+
+The intersection of the two surfaces consists of points (x, y, z) that satisfy both equations. <br>
+Note that if we multiply the first equation by 2 and subtract side by side, we get: \( 6x + 5y = 2 \). <br/>
+This means that the intersection of the two surfaces, no matter what it looks like, must consist of points that belong to a plane. <br> <br>
+
+<hr>
+<b> September 15, 2023 | Quiz Notes </b> <br>
+Below find some quiz notes. Graded work will be returned in class. If there are mistakes or typos below, feel free to email me. <br>
+
+	
+
+P1 <br>
+Let the points be: A(1, 2), B(3,1), and C(8,4). Form three vectors: <br>
+\( \vec{AB} = < 2, -1 >, \vec{BC} = < 5, 3 >, \vec{AC} = < 7, 2> \) <br>
+Find the three possibilities by adding any vector to the point that wasn't used to form that vector. For example, to the vector \( \vec{OC} \) we add the vector \( \vec{AB} \).
+
+The missing points are: (10, 3), (-4, -1), and (6, 5), as shown below: <br>
+
+<center> <img src="img/parallelograms.png" width="500" height"400"> </center>
+
+P2 <br>
+
+There were no issues with problem 2.
+
+<hr>
+<b> September 14, 2023 | Quiz Notes </b> <br>
+Below find some quiz notes. Graded work will be returned in class. If there are mistakes or typos below, feel free to email me. <br>
+
+P1 <br>
+Form three vectors using the points: A(4, -2, 7), B(-2,0,3), C(7, -3, 9). <br>
+
+\( \vec{AB} = < -6, 2, -4 >,  \vec{AC} = < 3, -1, 2 >, \vec{BC} = < 9, -3, 6 > \) <br>
+
+Note that \( \vec{AB} = -2* \vec{AC} \text{ and } \vec{BC} = (-3/2)* \vec{AB} \) <br>
+
+The three vectors are therefore multiples of each other, so the points are collinear.  <Br>
+
+Note that the problem asked us to use vectors. <br> <br>
+	
+P2<br>
+A(2, 9, 1), B(3,11,4), C(0, 10, 12), D(1, 12, 5) <Br>
+	
+Same idea here, except the four resulting vectors should be two equal pairs: <br>
+\( \vec{AB} = < 1, 2, 3 > = \vec{CD} \text{ and } \vec{AC} = < -2, 1, 1 > = \vec{BD}  \)  <br>
+Note that the problem asked us to use vectors. <br> <br>
+
+P3 <Br>
+
+\( t\vec{v}  \) consists of all points on the line in the direction of vector  \( \vec{v} \), passing through the origin. <br>
+
+\( \vec{u} + t\vec{v} \) describes all points on the lines that passes through the tip of \( \vec{u} \) in the direction of \( \vec{v} \). Here we assume that vector \( \vec{u} \) starts at the origin. <Br> 
+	
+\( s\vec{u} + t\vec{v} \) describes all points on the plane as long as \( \vec{u}, \vec{v} \) are not parallel to each other. If they are parallel, the resulting set is the line passing through the origin in the direction of either vector.
+
+
+<!-- 
+<b> September 6, 2023  | SageMath Installation </b> <br>
+<font color="dodgerblue"> 
+SageMath for Mac OS: <br>
+https://github.com/3-manifolds/Sage_macOS/releases<br>
+SageMath for Windows: <br>
+https://github.com/sagemath/sage-windows/releases <br>
+SageMathCell: <br>
+https://sagecell.sagemath.org/
+
+</font> 
+
+<hr>
+
+<hr>
+<b> December 9, 2022 | About the final exam </b> <br>
+The exam will be comprehensive of all fall semester material and it will carry a weight of 20% towards the overall grade. Your quiz average, which is your current grade in the course, will carry a weight of 80%. <br>
+To prepare for the exam, go over previous homework assignments and assessments. The assignments should still be accessible on myCushing by visiting the Assignments tab on your course page. The exam will last a minimum of 90 minutes and a maximum of 120 minutes. The format of the exam will likely be similar to the one for quizzes but there may be some multiple choice questions as well. Calculators may or may not be required so be sure to bring them. On the day of the exam, you should bring your own utensils.The exam is scheduled for Tuesday morning, December 13, 8:30am.   <br>
+
+
+Optional Extra Help Sessions: Monday (2:30pm-3:30pm in JRCAC 110;  8:15pm-9:15pm via Zoom <a href="https://cushingacademy.zoom.us/j/294640299?pwd=UVIxdXhlZ0t4UU9OTWx3ZTFFaXBwUT09
+" target="_blank">Link </a> ) If you plan to attend, please bring specific questions. Do not expect to be taught or retaught concepts. <br>
+
+As always, if there are questions, be sure to let me know.
+
+<hr>
+
+
+<hr>
+<b> November 15, 2022 | Comment on Section 12.3 | Problem 26?</b> <br>
+We used the double angle formula quite a bit in the last few days. For integrals of the form: <br>
+\( \int \sin x \cos x \text{ } dx \) <br> we can also use simple u-substitution: <br> \( u=\sin x \) or \( u = \cos x\) <br>
+In problem 26, integrating this way will give us a more direct way to convert from the given parameter t to arclength s, because you will have an expression for \( \sin t \), and for \(\cos t \) we can use \( \cos t = \sqrt{1-\sin^2 t} \) <br>
+
+We can discuss this further in class if necessary.
+<br> <br>
+
+
+
+<hr>
+<b> November 10, 2022 | Notes on Recent Quiz </b> <br>
+A trig parametrization of the second problem from the recent quiz is below. If we start with the second equation and set: <br>
+\( y=\sqrt{20} \cos t, z=\sqrt{20}\sin t \), the first component becomes: \( x=\sqrt{25-20\cos^2t} \) <br>
+Finding the specific t value isn't necessary with this approach, because with the coordinates (3,4,2), we get: \( \cos t = \frac{2}{\sqrt{5}}, \sin t=\frac{1}{\sqrt{5}} \), <br>
+which can be plugged into the derivative's components directly, without using the inverse. <br>
+\( x'(t^{*}) = 8/3, y'(t^{*})=-2, x'(t^{*})=4  \) <br>
+
+The SAGE code is below. Feel free to adjust the viewing window.
+
+<pre>
+<code class="language-python">
+t = var('t')
+
+r(t)=vector((sqrt(25-20*(cos(t))^2),sqrt(20)*cos(t),sqrt(20)*sin(t)))
+r2(t) = vector((3+8*t/3,4-2*t,2+4*t))
+p1=parametric_plot3d(r2(t),(t,0,5))
+p1 += parametric_plot3d(r(t),(t,0,5))
+p1
+</code>
+</pre>
+<br> <br>
+
+
+
+
+<hr>
+<b> October 10, 2022 | Monday </b> <br>
+For today's class meeting please plan to work on the following. These are in-class and homework problems. Make a note of the ones that bother you and bring questions when I return to school. If you finish early, keep busy with schoolwork from other subjects. <br> 
+
+In section 11.5, solve exercises: 54-60 (all) . <br> <br> 
+<hr>
+<b> October 7, 2022 | Friday </b> <br>
+For today's class meeting please plan to work on the following. These are in-class and homework problems. Make a note of the ones that bother you and bring questions when I return to school. If you finish early, keep busy with schoolwork from other subjects. <br>
+In section 11.5 , solve exercises: 43-52 all . <br> <br>
+
+<hr>
+<b> October 6, 2022 | Thursday </b> <br>
+For today's class meeting please plan to work on the following. These are in-class and homework problems. Make a note of the ones that bother you and bring questions when I return to school. If you finish early, keep busy with schoolwork from other subjects.  <br>
+In section 11.5, solve exercises: 19-37(odds); 39-42 (focus on concepts / all) <br> <br>
+<hr>
+<b> September 17, 2022 | About grades and the myCushing gradebook </b> <br>
+  The current grade on myCushing is updated approximately once a week (usually by Sunday night) and it is a simple average of all the assessment scores you have earned to date in my class. The 'current_grade' assignment is not really an assignment but just a way to keep you informed about your present average. For example, as of Saturday, September 17, what you see on myCushing is current. <br>
+  
+  The gradebook does not have individual quiz/assessment scores as those are kept separately. As always, if you have questions or if you think your grade for some reason looks wrong, don't hesitate to reach out.
+
+ 
+
+<hr>
+
+<b> December 9, 2021 | More on the final exam.  </b> <br>
+<font color="dodgerblue">  <br>
+Exam location: JRCAC 202 <br>
+Exam time: Tuesday: 1pm - 3pm <br> 
+
+Office Hours (JRCAC110) 2:30-3:30pm on Monday  <br>
+*** Bring specific questions, please. Do not expect to be (re)taught concepts. One question from one student at a time.*** <br>
+
+Zoom office-hours 8:15 - 9:15pm on Monday (link below) <br>
+
+https://cushingacademy.zoom.us/j/294640299?pwd=UVIxdXhlZ0t4UU9OTWx3ZTFFaXBwUT09
+
+ <br> 
+</font>
+
+<hr>
+<b> December 3, 2021 | About the final exam.  </b> <br>
+<font color="dodgerblue">  <br>
+Weight: 20% of the fall semester grade <br>
+Duration: Minimum: 90 minutes. Maximum: 120 minutes. <br>
+Covers: everything from the start of the school year. <br>
+Calculator: Not allowed. Do not bring it. <br>
+Format: A mix of short and long answers. A short portion of multiple choice is possible but unlikely.<br>
+Bring: pencils, eraser, ruler. <br>
+Be on time. Plan to stay for at least 90 minutes.
+ <br> 
+</font>
+
+
+<hr>
+
+<b> October 28, 2021  </b> <br>
+
+<font color="dodgerblue"> 
+ Brief Notes on most recent quiz.<br>
+ P1:<br>
+ All points on an ellipsoid. Square the distances, set double the first distance equal to the second, and then completed the square. Be sure to give the center of the ellipsoid.
+ 
+ <br><br>
+ P2:<br>
+ All points on the plane with equation: 6x + 5y = 0
+ <br><br>
+ P3:<br>
+ a) All points on or above the paraboloid z = x^2 + y^2, that are also on or below the plane z=4<br> 
+ b)All points on or between the cocentric spheres of radius 1 and 3, with the origin as the center. <br>
+ c) A right circular cylindrical solid of height 3 and radius 1, whose axis is the line x=0, y=1.  <Br>
+ d) All points on or above the cone phi = pi/6, that are also on or below the sphere rho=2.<br>
+</font>
+
+
+
+
+<hr>
+
+<b> October 15, 2021  </b> <br>
+
+<font color="dodgerblue"> 
+The midterm marking period closes today.
+</font>
+
+
+
+<hr>
+<b> September 19, 2021  </b> <br>
+<font color="dodgerblue"> 
+<b>Weekly Updates</b>: For those of you who are new to Cushing, this information may be helpful. Approximately once a week teachers post current grades on Monday night. Sometimes teachers will include concerns or noteworthy comments related to student performance. The weekly reports typically go live for students on Tuesday (sometimes Wednesday) morning. <br>
+ 
+For our class, the weekly update will reflect your current grade, including any graded week from the week before. Although I will try my best to include any quizzes you write on a Monday into the update, I can't promise that it will happen all the time. <br> In class I will try to find a minute or two to comment on grades and grading this coming week. <br> <br>
+ 
+  
+</font>
+
+<hr>
+
+
+<b> September 7, 2021  </b> <br>
+<font color="dodgerblue"> 
+Approximately once a week, on myCushing you will notice that a portion of your homework assignment will have the tag <b> [ overtime ] </b>. This will typically involve additional problem solving, reading, exploration, that will not require more than 25 minutes of your time. All subjects are asked to have this added component this year. Let me know if you have any questions about this.
+
+</font> 
+<hr>
+
+
+<b> September 5, 2021 </b> <br>
+<font color="dodgerblue"> This section of the course page is for selected notes and commentary that I will type for the group during the academic year. Most meetings will not require typed remarks. Newer items will be at the top, but I will try to remind you during class when new content is posted here. <br>
+
+Other blocks, like 'Downloads' or 'Links', will go live soon. For now, the most important tab on this course page is the Assignments' section, which will include daily/nightly homework instructions. Be sure to visit before the start of study hall Sunday through Thursday.</font> </br>
+<hr>
+-->
 
 <!-- end notes container-->
 </div>
