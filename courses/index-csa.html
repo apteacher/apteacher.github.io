@@ -47,60 +47,45 @@ MathJax.Hub.Config({
 	
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-    <li><a href="#notes">notes</a></li>
-    <li><a href="#dl">downloads</a></li>   
+        <li><a href="#about">about</a></li>   
+        <li><a href="#notes">notes</a></li>
+    <li><a href="#links">links</a></li>   
     <li><a href="#info">syllabus</a></li>
-    <li><a href="#about">about</a></li>
+   
 
       </ul>
     </div>
   </div>
 </nav>
+<!-- first container: about  -->
+<div class="container-fluid bg-4 text-left">
+  <h2 class="margin" id="about">about</h2>
+  <p align="center"><img src="img/site/ca.jpeg" class="img-responsive img-circle margin" style="display:inline" alt="ap-calc" width="200" height="207"> </p>
+<p>AP Computer Science A is both a college-prep course for potential computer science majors and a foundation course for students planning to study in other technical fields such as engineering, physics, chemistry, and geology. The course emphasizes methodology, procedural abstraction, and in-depth study of algorithms, data structures, and data abstractions, as well as a detailed examination of a large case study program. Instruction includes preparation for the AP Computer Science A exam. In this course, students apply the programming tools they have learned to real-life examples on their own. Computer science is more than just programming; students who successfully complete the course will have an understanding of Java and the ability to adapt to any new programming language that they are taught in college. 
 
-<div class="w3-container w3-orange">
-<center> <h2> AP Calculus BC </h2> </center>
+</p> </div>
+<!-- end of first container -->
+
+
+<!-- start notes container (Grid) -->
+<div class="container-fluid text-left" id="notes">
+  <h2>notes / updates</h2>
+  <div w3-include-HTML="z-csa.html"></div> 
+
+<!-- end notes container-->
+</div>
+
+<!-- Second Container (Grid) -->
+  <div class="container-fluid text-left" id="links">
+    <h2>links</h2>
+     <p> links go here.</p>
   </div>
 
-  <div w3-include-HTML="z-csa.html" id="notes">
-    
-  </div>   
-    
-
-	
-
-<hr>
-  <!-- Second Container (Grid) -->
-  <div class="container-fluid text-left" id="dl">
-  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  </div>
-
-<hr>
   <!-- Third Container (Grid) -->
-  <div class="container-fluid bg-5 text-left" id="info">
+  <div class="container-fluid text-left" id="info">
+    <h2>expectations</h2>
     <div w3-include-HTML="z-expectations.html"></div>
   </div>
-
-<hr>
-<!-- Fourth Container (Grid)   -->
-<div class="container-fluid bg-4 text-left">
-    <h2 class="margin" id="about">about</h2>
-    <p align="center"><img src="img/site/ca.jpeg" class="img-responsive img-circle margin" style="display:inline" alt="ap-calc" width="200" height="207"> </p>
-  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
- </div>
-      
-
-
-    <hr>
-    
-
-
-
-<!-- Footer -->
-<footer class="container-fluid bg-3 text-center">
-   <!-- Footer -->
-   <script src="/incl/f.txt"></script>
-</footer>
-
 
 
 <script>
