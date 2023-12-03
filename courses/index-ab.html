@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+ <!-- Project Page: Title -->
+ <script src="/incl/t.txt"></script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="keywords" content="Calculus, AP Calculus, AP Calculus AB, AP Calculus BC, College Board, Free Response, Multiple Choice, Mathematics, Worksheets, Tutorials, Practice">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="style/style.css">
+
+
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+});
+</script>
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+ 
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+
+
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#about"></a>
+    </div>
+	
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#about">about</a></li>   
+        <li><a href="#notes">notes</a></li>
+    <li><a href="#links">links</a></li>   
+    <li><a href="#info">syllabus</a></li>
+   
+
+      </ul>
+    </div>
+  </div>
+</nav>
+<!-- first container: about  -->
+<div class="container-fluid bg-4 text-left">
+  <h2 class="margin" id="about">about</h2>
+  <p align="center"><img src="img/site/ca.jpeg" class="img-responsive img-circle margin" style="display:inline" alt="ap-calc" width="200" height="207"> </p>
+<p> 
+  AP Calculus AB follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Students enrolled in this course are required to take this test. Topics covered include library of functions, limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc.
+</p> </div>
+<!-- end of first container -->
+
+
+<!-- start notes container (Grid) -->
+<div class="container-fluid text-left" id="notes">
+  <h2>notes / updates</h2>
+  <div w3-include-HTML="z-ab.html"></div> 
+
+<!-- end notes container-->
+</div>
+
+<!-- Second Container (Grid) -->
+  <div class="container-fluid text-left" id="links">
+    <h2>links</h2>
+     <p> links go here.</p>
+  </div>
+
+  <!-- Third Container (Grid) -->
+  <div class="container-fluid text-left" id="info">
+    <h2>expectations</h2>
+    <div w3-include-HTML="z-expectations.html"></div>
+  </div>
+
+
+<script>
+  w3.includeHTML();
+  </script>
+</body>
+</html>
