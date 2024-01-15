@@ -8,9 +8,8 @@ permalink: /mvc/
 <p align="center"> <img src="/d-img/mvc.png" border="0"> </p>
 <b>Multivariable Calculus</b> extends differential and integral calculus concepts to functions in two or more variables. The topics include vectors, dot products, cross products, equations of lines and planes, surfaces, vector-valued functions, derivatives and integrals of vector-valued functions, space curves, partial and directional derivatives, extrema, double and triple integrals, etc. The curriculum may include concepts such as vector fields, line integrals, applications from the natural sciences or content from abstract mathematics topics<a href="javascript:void(0)" onclick="w3.toggleShow('#notes'); w3.toggleShow('#placeholder');">.</a> 
 
---- 
 
-<p id="placeholder" align="center"> <b> notes go here </b> </p>
+<p id="placeholder" align="center"> <b> </b> </p>
 
 <p id='notes' style='display:none;'>		
 <iframe src="https://apteacher.github.io/courses/index-mvc.html" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
