@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-I teach upper level mathematics and computer science at Cushing Academy. The information on this site is intended for my current students.
+I teach upper level mathematics and computer science at Cushing Academy. 
 
 # office hours
 
