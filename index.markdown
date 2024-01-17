@@ -34,7 +34,7 @@ title: courses
 
 <p id="placeholder-mvc" align="center"> <b> </b> </p>
 
-<p id='notes' style='display:none;'>		
+<p id='notes-mvc' style='display:none;'>		
 <iframe src="https://apteacher.github.io/courses/index-mvc.html" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </p>
 
