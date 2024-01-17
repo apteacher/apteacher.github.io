@@ -4,6 +4,8 @@ title: about
 permalink: /about/
 ---
 
+I teach upper level mathematics and computer science at Cushing Academy.
+
 # office hours
 
 available by appointment most mornings (8am-8:30am) or during shared "free" block. reach out via email or ask me in person and we'll schedule a time to meet.
