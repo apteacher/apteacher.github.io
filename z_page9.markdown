@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-I teach upper level mathematics and computer science at Cushing Academy, an independent boarding school in the state of Massachusetts, United States.
+I teach upper level mathematics and computer science at Cushing Academy. The information on this site is intended for my current students.
 
 # office hours
 
