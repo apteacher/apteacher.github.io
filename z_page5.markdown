@@ -6,18 +6,9 @@ permalink: /info/
 
 # grading
 
-<b>Fall Semester</b>
-
-Homework and Participation: 0% <br>
-Quizzes/Assessments/Labs: 80%<br>
-Comprehensive Fall Final Exam: 20%  <br>
-
-<b>Spring Semester</b>
-
-Homework and Participation: 0% <br>
-Quizzes/Assessments/Labs: 100%<br>
-Final Exam: 0% (no spring final exam for AP courses)
-
+Homework and Participation: 0% (the nighly reading and homework helps you prepare for assessments) <br>
+Quizzes/Assessments/Labs: 80% (unannounced frequent quizzes, usually twice a week; weights vary depending on duration)  <br>
+Comprehensive Final Exam: 20% (in AP subjects we will not write a spring final exam) <br>
 
 # learning tools
 
