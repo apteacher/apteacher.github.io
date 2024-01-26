@@ -6,8 +6,8 @@ permalink: /info/
 
 # grading
 
-Homework and Participation: 0% (the nighly reading and homework helps you prepare for assessments) <br>
-Quizzes/Assessments/Labs: 80% (unannounced frequent quizzes, usually twice a week; weights vary depending on duration)  <br>
+Homework and Participation: 0% (the nightly homework helps you prepare for assessments) <br>
+Quizzes/Assessments/Labs: 80% (unannounced frequent quizzes, usually twice a week)  <br>
 Comprehensive Final Exam: 20% (in AP subjects we will not write a spring final exam) <br>
 
 # learning tools
