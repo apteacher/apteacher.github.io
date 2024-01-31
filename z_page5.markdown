@@ -12,7 +12,7 @@ Comprehensive Final Exam: 20% (in AP subjects we will not write a spring final e
 
 # learning tools
 
-texbook (issued on first day) <br>
+textbook (issued on first day) <br>
 notebook or note-taking devices with all notifications turned off<br>
 writing utensils <br>
 laptop with working wireless connection <br>
