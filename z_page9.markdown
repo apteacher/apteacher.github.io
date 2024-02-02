@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-I teach upper level mathematics and computer science at Cushing Academy. 
+I teach upper level mathematics and computer science at an independent school in Massachusetts, USA. The information on this site is intended for my current students.
 
 # office hours
 
