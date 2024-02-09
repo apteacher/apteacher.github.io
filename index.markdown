@@ -7,7 +7,7 @@ I teach upper level mathematics and computer science at Cushing Academy, an inde
 
 # office hours
 
-available by appointment most mornings (8am-8:30am) or during shared "free" block. reach out via email or ask me in person and we'll schedule a time to meet.
+available by appointment most mornings (8:00am - 8:30am) or during shared "free" block. reach out via email or ask me in person and we'll schedule a time to meet.
 
 # current schedule 
 <p align="center">A = AP Calculus AB :: B = Multivariable Calculus :: F = AP Computer Science A :: G1 = AP Calculus BC</p>
