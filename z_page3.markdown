@@ -5,7 +5,7 @@ permalink: /courses/
 ---
 <script src="https://www.w3schools.com/lib/w3.js"></script>
 <!-- <p align="center">  <img src="/d-img/squeeze.png" border="0"> </p> -->
-<b>AP Calculus AB <a href="https://apteacher.github.io/courses/index-ab.html" target="_blank">:</a></b> follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Students enrolled in this course are required to take this test. Topics covered include library of functions, limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc<a href="javascript:void(0)" onclick="w3.toggleShow('#notes-ab'); w3.toggleShow('#placeholder-ab');">. </a>
+<b>AP Calculus AB</b> follows the curriculum set forth by the College Board. It is worth the equivalent of one semester of college credit upon successful completion of the AP examination offered in May. Students enrolled in this course are required to take this test. Topics covered include library of functions, limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, etc<a href="https://apteacher.github.io/courses/index-ab.html" target="_blank">.</a><a href="javascript:void(0)" onclick="w3.toggleShow('#notes-ab'); w3.toggleShow('#placeholder-ab');"></a>
 
 
 <p id="placeholder-ab" align="center"> <b>  </b> </p>
@@ -16,7 +16,7 @@ permalink: /courses/
 ---
 
 <!--<p align="center"> <img src="/d-img/koch.png" border="0"> </p>-->
-<b>AP Calculus BC <a href="https://apteacher.github.io/courses/index-bc.html" target="_blank">:</a></b> follows the curriculum set forth by the College Board. It is worth the equivalent of two semesters of college credit upon successful completion of the AP examination in May. Students enrolled in this course are required to take this test. Topics covered include library of functions, limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, techniques of integration, infinite series and sequences, etc<a href="javascript:void(0)" onclick="w3.toggleShow('#notes-bc'); w3.toggleShow('#placeholder-bc');">.</a> 
+<b>AP Calculus BC</b> follows the curriculum set forth by the College Board. It is worth the equivalent of two semesters of college credit upon successful completion of the AP examination in May. Students enrolled in this course are required to take this test. Topics covered include library of functions, limits, the derivative, applications of the derivative, definite and indefinite integrals, applications of integration, techniques of integration, infinite series and sequences, etc<a href="https://apteacher.github.io/courses/index-bc.html" target="_blank">.</a><a href="javascript:void(0)" onclick="w3.toggleShow('#notes-bc'); w3.toggleShow('#placeholder-bc');"></a> 
 
 
 
