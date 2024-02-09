@@ -16,6 +16,5 @@ available by appointment most mornings (8am-8:30am) or during shared "free" bloc
 
 # contact me
 
- <a href="https://apteacher.github.io/key.txt" target="_blank">public key </a> <br> 
 <center> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfk3MsgYHHCfX69rYixFbnQIuGToOyGh9GlpIXcycYWO-BrWg/viewform?embedded=true" width="600" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> </center>
 
