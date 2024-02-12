@@ -3,7 +3,7 @@ layout: home
 title: about
 ---
 
-I teach upper level mathematics and computer science at Cushing Academy, an independent school in New England. 
+I teach upper level mathematics and computer science at Cushing Academy, an independent school in New England. This site contains general course-related information for my current students.
 
 # office hours
 
