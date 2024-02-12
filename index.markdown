@@ -3,14 +3,14 @@ layout: home
 title: about
 ---
 
-I teach upper level mathematics and computer science at Cushing Academy, an independent school in New England. The general information on this site is already included in the academic portal's course pages.
+I teach upper level mathematics and computer science at Cushing Academy, an independent school in New England. 
 
 # office hours
 
 available by appointment most mornings (8:00am - 8:30am) or during shared "free" block. reach out via <a href="mailto:dshubleka@cushing.org">email</a> or ask me in person and we'll schedule a time to meet.
 
 # current schedule 
-<!-- <p align="center">A = AP Calculus AB :: B = Multivariable Calculus :: F = AP Computer Science A :: G1 = AP Calculus BC</p> -->
+A = AP Calculus AB :: B = Multivariable Calculus :: F = AP Computer Science A :: G1 = AP Calculus BC</p>
 
 <p align="center"> <img src="/d-img/schedule.png" border="2"> </p>
 
