@@ -72,6 +72,28 @@ MathJax.Hub.Config({
 <div class="container-fluid text-left">
   <h2 id="notes">notes / updates</h2>
   <hr>
+  <b> April 4, 2024 | Thoughts on today's quiz.</b> <br>
+ a) \( \sum_{n=1}^{\infty} \frac{(-1)^n (n+1)3^n}{ 2^{2n+1}} \) <br>
+ The Ratio Test works best here. Be sure to use the absolute value notation: <br>
+
+ \( |\frac{a_{n+1}}{a_n}| = |\frac{(n+2)3^{n+1}}{2^{2n+3}} * \frac{2^{2n+1}}{(n+1)3^n}| = ... |\frac{n+2}{n+1} \frac{3}{4}|\rightarrow \frac{3}{4} < 1 \) <br>
+ Since the series converges absolutely, it convergs. <br> <br>
+
+ b) \( \sum_{n=1} (-1)^n \frac{\sqrt{n}}{2n+1} \) <br>
+ Use the alternating series test  here. We need to check and show work for two conditions: <br>
+ First, \( b_n = \frac{\sqrt{n}}{2n+1} = \frac{1/\sqrt{n}}{2+\frac{1}{\sqrt{n}}} \rightarrow \frac{0}{2+0} = 0 \) <br>
+ Second, confirm that \( b_{n+1} \leq b_n\). You can do this algebraically or by taking the derivative of \( f(x) = \frac{\sqrt{x}}{2x+1}\) and confirming that the derivative is negative. <br>
+
+ c) \( \sum_{n=1}^{\infty} \frac{\cos 3n}{1+(1.2)^n} \) <br>
+ This is similar to the example from class. We show absolute convergence for the given series by using the comparison test twice: <br>
+ \( | \frac{\cos 3n}{1+(1.2)^n} | \leq \frac{1}{1+(1.2)^n} < \frac{1}{(1.2)^n} = (5/6)^n \) <br>
+ The right-most sequence above makes a geometric series that is convergent, so by the Comparison Test, the original series converges absolutely, and therefore it converges. <br>
+
+ d) \( \sum_{n=1}^{\infty} \frac{(-5)^{2n}}{n^2 9^n} = \sum_{n=1}^{\infty} \frac{5^{2n}}{n^2 9^n}  \) <br>
+ Use the ratio test with care to show that the series diverges. Note that: \( a_{n+1} = \frac{5^{2(n+1)}}{(n+1)^2 9^{n+1} }\). The ratio ends up approaching 25/9, which is greater than 1. <br>
+
+
+  <hr>
   <b> April 4, 2024 | Thoughts on problem 15 from today's worksheet.</b> <br>
  
   An odd number can be described as \( 2n-1 \) or \( 2n+1 \) if n is a positive integer. <br> 
