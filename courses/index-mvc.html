@@ -72,6 +72,26 @@
 <!-- start notes container (Grid) -->
 <div class="container-fluid text-left">
   <h2 id="notes">notes / updates</h2>
+    
+  <hr>
+  <b> April 22, 2024 | Notes on problem 43 (14.1) </b> <br>
+  The function is not continuous at (0,0) so the results below are not surprising.
+  Because of the behavior of the integrand especially near the bottom left corner, our numerical approximations using Java also should not be surprising, even if we start slightly away from (0, 0).
+  The integrand, for example, approaches negative infinity as we approach the origin along the x-axis.
+
+  <pre>
+    <code class="language-python">
+      x, y = var('x, y')
+      f(x,y) = (y-x)/(x+y)^3
+      assume(x>0)
+      assume(y>0)
+      dxdy =f.integrate(x,0,1).integrate(y,0,1)
+      dydx =f.integrate(y,0,1).integrate(x,0,1)
+      print("The integral with respect to x, then y: ", dxdy,".")
+      print("The integral with respect to y, then x: ", dydx,".")
+      </code>
+      </pre>
+  
   <hr>
   <b> April 16, 2024 | Notes on today's quiz </b> <br>
 P1. <br>
