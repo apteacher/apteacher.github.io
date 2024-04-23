@@ -75,9 +75,22 @@
     
   <hr>
   <b> April 22, 2024 | Notes on problem 43 (14.1) </b> <br>
-  The function is not continuous at (0,0) so the results below are not surprising.
+  The function is not continuous at (0,0) so the results below are not surprising. Fubini's Theorem does not apply here due to the discontinuity. 
   Because of the behavior of the integrand especially near the bottom left corner, our numerical approximations using Java also should not be surprising, even if we start slightly away from (0, 0).
-  The integrand, for example, approaches negative infinity as we approach the origin along the x-axis.
+  The integrand, for example, approaches negative infinity as we approach the origin along the x-axis. Some code: <br>
+
+  <pre>
+    <code class=""language-python">
+      x, y = var('x y')
+      #try this:
+      plot3d((y-x)/(x+y)^3,(x,0.5,1),(y,0.5,1))
+      #then this
+      plot3d((y-x)/(x+y)^3,(x,0.25,1),(y,0.25,1))
+      #then this
+      plot3d((y-x)/(x+y)^3,(x,0.05,1),(y,0.05,1))
+      
+    </code>
+  </pre>
 
   <pre>
     <code class="language-python">
