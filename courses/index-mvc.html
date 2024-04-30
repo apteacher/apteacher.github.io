@@ -74,6 +74,14 @@
   <h2 id="notes">notes / updates</h2>
     
   <hr>
+  <b> April 30, 2024 | Notes on improper double integral </b> <br>
+The original form of the integral is improper because the upper bound goes to infinity but also because the integrand is not continuous at the lower bound (x=0), so we need to be careful with the writing. <br>
+  \( \int_0^t \int_1^2 e^{-xy} dy dx = \int_1^2 \int_0^t e^{-xy} dx dy = ... = \int_1^2 \frac{-e^{-ty}}{y} +\frac{1}{y} dy = \) <br>
+  \( = \ln 2 - \int_1^2 \frac{e^{-ty}}{y} dy\) <br>
+  The integral expression from the preceding line can be expressed as an infinite series: <br>
+  \( \sum_{n=0}^{\infty} \frac{(-1)^{n+1} t^n (2^n-1)}{n*n!}\) <br>
+  A ratio test confirms that the series is convergent for all t. 
+  <hr>
   <b> April 22, 2024 | Notes on problem 43 (14.1) </b> <br>
   The function is not continuous at (0,0) so the results below are not surprising. Fubini's Theorem does not apply here due to the discontinuity. 
   Because of the behavior of the integrand especially near the bottom left corner, our numerical approximations using Java also should not be surprising, even if we start slightly away from (0, 0).
