@@ -92,7 +92,38 @@ A(2, 9, 1), B(3,11,4), C(0, 10, 12), D(1, 12, 5) <Br>
 	
 Same idea here, except the four resulting vectors should be two equal pairs: <br>
 \( \vec{AB} = < 1, 2, 3 > = \vec{CD} \text{ and } \vec{AC} = < -2, 1, 1 > = \vec{BD}  \)  <br>
-<b>Note that the problem asked us to use vectors.</b> <br> <br>
+<b>Note that the problem asked us to use vectors.</b> <br>
+
+Here is the SageMath code: <Br>
+  <pre>
+ 
+    <code class="language-python">
+      #Problem 2
+      A=(2,9,1)
+      B=(3,11,4)
+      C=(0,10,2)
+      D=(1,12,5)
+      
+      #form vectors
+      AB = vector([B[0]-A[0],B[1]-A[1],B[2]-A[2]])
+      BC = vector([C[0]-B[0],C[1]-B[1],C[2]-B[2]])
+      CD = vector([D[0]-C[0],D[1]-C[1],D[2]-C[2]])
+      AD = vector([D[0]-A[0],D[1]-A[1],D[2]-A[2]])
+      AC = vector([C[0]-A[0],C[1]-A[1],C[2]-A[2]])
+      BD = vector([D[0]-B[0],D[1]-B[1],D[2]-B[2]])
+      print("AB:", AB)
+      print("BC:", BC)
+      print("CD:", CD)
+      print("AD:", AD)
+      print("AC:", AC)
+      print("BD:", BD)
+      
+      
+      plot(AC, start=A) + plot(CD, start=C) + plot(-BD, start=D) + plot(-AB, start=B)
+    </code>
+    </pre>
+
+
 
 P3 <Br>
 
