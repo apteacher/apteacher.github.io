@@ -72,8 +72,30 @@
 <!-- start notes container (Grid) -->
 <div class="container-fluid text-left">
   <h2 id="notes">notes / updates</h2>
+ <hr> 
+ <b> November 18, 2024</b>
+ P1. <br>
+\( \vec{r}(t) = < 0, 4 \cos t, 3 \sin t > \) <br><bR>
+P2. <br>
+The SageMath code for problem 2 is below. <br>
 
+ <pre>
+ 
+  <code class="language-python">
 
+t = var('t')
+
+# Problem 2 - part a
+r1 = vector((t, e^t,-t*e^t))
+r1.integrate(t,0,2)
+
+# Problem 2 - part b)
+
+f(t) = sqrt(t^2+t^4)
+f.integrate(t,0,3)
+
+</code>
+</pre>
   <hr>
   <b> November 15, 2024 | Quiz feedback  </b> <br>
 P1. <br>
