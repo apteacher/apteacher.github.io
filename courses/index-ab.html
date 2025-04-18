@@ -76,12 +76,13 @@ MathJax.Hub.Config({
 
   <hr>
   <b> April 18, 2025 | Feedback on today's quiz </b> <br>
-  a) Be sure to draw a curve that "fits" the slope fields and passes through (1,1). The field below is generated with desmos. <bR>
+  a) Be sure to draw a curve that "fits" the slope field and passes through (1,1).  The field below is generated with desmos. <bR>
   <center> <iframe src="https://www.desmos.com/calculator/uhnuhukz0f?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe></center>
   <bR><br>
   b) Separate variables: \( \int y \text{ } dy = \int (1-x) dx \), then integrate: <br>
   \( \frac{y^2}{2} = x -\frac{x^2}{2} + C \). <br> Plug in (1,1) to find \( C = 0\). <br>
-  The solution is: \( y = \sqrt{2x-x^2} \). <br><br>
+  The general solution is: \( y =\pm \sqrt{2x-x^2} \) but since (1,1) is the initial condition and \( y = 1 > 0 \),<br><br>
+  we conclude that the specific solution is: \( y = \sqrt{2x-x^2} \). <br><br>
 
   P2. <br>
   \( \frac{dT}{dt} = k(T-75); T(0) = 350; T(5) = 340\) <br>
@@ -102,13 +103,14 @@ MathJax.Hub.Config({
   P1. <br>
   After separating variables, set up the integrals as follows: <br>
 \( \int \frac{1}{1+y^2} dy = \int (1+x) dx \) <br>
+\( \arctan y = x + \frac{x^2}{2} + C \) <br>
 The general solution is \( y = \tan(x+\frac{x^2}{2}+C) \).
 
   <br><br>
   P2. <br>
   a) \( y = y_0 e^{kt}; y(5) = 0.7 y_0 \) (since 30% is gone) <br>
   \( 0.7 y_0 = y_0 e^{5k} \rightarrow k =\frac{\ln(0.7)}{5} \approxeq -0.071 \) <br>
-  \( t_H = \frac{-\ln 2}{k} \approxeq 9.763 \) years. (Does this make sense in the context of this problem?) <br> <br>
+  \( t_H = \frac{\ln(1/2)}{k}= \frac{-\ln 2}{k} \approxeq 9.763 \) years. (Does this make sense in the context of this problem?) <br> <br>
 
   b) The percentage remaining is: \( 100 \times \frac{y(t)}{y_0} = 100\times  \frac{y_0 e^{kt}}{y_0} = 100 \times e^{-.071 t} \% \) of the original.
 
