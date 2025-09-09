@@ -52,3 +52,17 @@ permalink: /courses/
 <p id='notes-csa' style='display:none;'>		
 <iframe src="https://apteacher.github.io/courses/index-csa.html" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </p>
+
+
+---
+
+<!-- <p align="center"> <img src="/d-img/mvc.png" border="0"> </p> -->
+<b>Linear Algebra</b> is a crossroads where many important areas of mathematics meet, and it is the tool used to analyze the first approximation of complex systems. Students will learn to understand and use the language and theorems in both abstract and applied situations, gain insight into the nature of mathematical inquiry, and learn how to reason carefully and precisely about formally described situations. Topics include vectors and subspaces of the n-dimensional space, linear transformations, and matrices; systems of linear equations; abstract vector spaces and the theory of single linear transformation: change of basis, determinants, eigenvalues and eigenvectors, and diagonalization <a href="https://apteacher.github.io/courses/index-la.html" target="_blank">.</a><a href="javascript:void(0)" onclick="w3.toggleShow('#notes-la'); w3.toggleShow('#placeholder-la');"></a> 
+
+
+<p id="placeholder-la" align="center"> <b> </b> </p>
+
+<p id='notes-la' style='display:none;'>		
+<iframe src="https://apteacher.github.io/courses/index-la.html" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</p>
+
