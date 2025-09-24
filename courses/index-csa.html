@@ -74,7 +74,64 @@ MathJax.Hub.Config({
 <!-- start notes container (Grid) -->
 <div class="container-fluid text-left">
   <h2 id="notes">notes / updates</h2>
-      <hr> 
+
+ <hr> 
+  <b> September 23, 2025  | Solution to tonight's homework </b> <br>
+
+   <pre>
+ 
+ <code class="language-java">
+/*
+Working with Scanner, String to build a message for the user.
+*/
+import java.util.*;
+
+public class Interaction {
+
+   public static void main(String[] args) { 
+
+      //variables
+      String firstName, lastName, country, favMovie, output;
+      int age, siblings;
+      Scanner kb = new Scanner(System.in);
+
+      System.out.println("Hi there. What's your first name?");
+      firstName = kb.nextLine();
+      
+      System.out.println("And your last name?");
+      lastName = kb.nextLine();
+      
+      System.out.println("Next, enter your country of origin.");
+      country = kb.nextLine();
+      
+      System.out.println("Next, enter your favorite movie.");
+      favMovie = kb.nextLine();
+      
+      System.out.println("Just two more questions. Next, enter your age.");
+      age = kb.nextInt();
+      
+      System.out.println("And finally, how many siblings do you have?");
+      siblings = kb.nextInt();
+      
+      output = "Hello " + firstName +" "+ lastName +". Nice to meet you.\nYou are from "
+      + country +" and your favorite movie is " + favMovie +".\nYou are "+ age +
+      " years old, and you indicated that you have " + siblings +" siblings.";
+      
+      System.out.println(output);
+      
+      System.out.println();
+      
+      System.out.println("The message I printed for you in the preceding step contains " 
+      + output.length() +" characters.");
+
+
+   }//end main
+} //end class
+</code>
+</pre>
+  
+  
+  <hr> 
   <b> September 8, 2025  </b> <br>
 
 AP registration instructions at this [ <a href="https://apstudents.collegeboard.org/access-your-ap-resources/join-your-class-online" target="_blank">link</a> ]. <br>
