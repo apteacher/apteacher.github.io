@@ -74,6 +74,52 @@
   <h2 id="notes">notes / updates</h2>
   
   <hr>
+  <b> September 25, 2024 | Some code for SageMath and Geogebra </b> <br>
+<pre>
+  <code class="language-python">
+  # SageMath start
+  # To declare Point objects
+  A=(1,2,3)
+  B=(1,-2,5)
+  C=(3,1,5)
+
+  # To draw a vector as a geometric shape
+  arrow(A,B)
+  # To draw more than 1 vector (triangle rule)
+  arrow(A,B) + arrow(B,C) + arrow (A,C)
+
+  # To form a vector from points
+  AB = vector(B[0]-A[0], B[1]-A[1], B[2]-A[2])
+  BC = vector(C[0]-B[0], C[1]-B[1], C[2]-B[2])
+
+# To print the vector:
+ AB 
+ print("BC: ", BC)
+
+ # To plot vectors
+ plot(AC, start=A) + plot(AB, start=A) + plot(BC, start=B)
+
+ # To check if two vectors are equal
+  
+ AB == BC
+   
+  # SageMath end
+
+   # Geogebra start (save the document if you want to keep your work)
+   #declare Point objects
+   A=Point({1,1,1})
+   B=Point({-1,2,3})
+   C=Point({2,2,-1})
+
+   # form vectors from points
+   AB = Vector(A,B)
+   BC = Vector(B,C)
+
+   # Geogebra end
+  </code>
+  </pre>
+
+  <hr>
    <!-- 
   <b> November 18, 2024 | Resource: WolframAlpha </b> <br>
   WolframAlpha is a reliable resource that you can use to confirm various mathematical calculations. To get started, visit wolframalpha.com and type a query using natural language. <br>
