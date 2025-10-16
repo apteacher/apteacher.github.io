@@ -73,6 +73,26 @@
 <div class="container-fluid text-left">
   <h2 id="notes">notes / updates</h2>
   
+
+  <hr>
+  <b> October 15, 2024 | Problem 57, Section 11.5 with SageMath </b> <br>
+  <pre>
+    <code class="language-python">
+      # Section 11.4 | Problem 57
+
+t = var('t')
+P = sphere((0,2,1), 0.2, color='red')
+Q = sphere((0,1,2), 0.2, color='purple')
+line1 = parametric_plot3d((2*t,1-t,2+t),(t,-3,3))
+
+v = vector([2,-1,1])
+u = vector([0,1,-1])
+proj = ((u.dot_product(v))/(norm(v)*norm(v)))*v
+norml = u - proj
+line2 = parametric_plot3d((0 +norml[0]*t,2+norml[1]*t,1+norml[2]*t),(t,-3,3))
+P + Q + line1 + line2
+    </code>
+  </pre>
   <hr>
   <b> September 25, 2024 | Some code for SageMath and Geogebra </b> <br>
 <pre>
