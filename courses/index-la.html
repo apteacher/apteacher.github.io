@@ -73,17 +73,39 @@ Linear algebra is a crossroads where many important areas of mathematics meet, a
 <div class="container-fluid text-left">
   <h2 id="notes">notes / updates</h2>
   <hr>
-   <!-- 
-  <b> November 18, 2024 | Resource: WolframAlpha </b> <br>
-  WolframAlpha is a reliable resource that you can use to confirm various mathematical calculations. To get started, visit wolframalpha.com and type a query using natural language. <br>
-  For example: <b>derivative of cos(3x) at x equals pi/6 </b>. The following url gives the results: <br>
+
+  <b> October 24, 2025 | LU decomposition with SageMath </b> <br>
   
-  <a href="https://www.wolframalpha.com/input?i=derivative+of+cos%283x%29+at+x+equals+pi%2F6" target="_blank"> https://www.wolframalpha.com/input?i=derivative+of+cos%283x%29+at+x+equals+pi%2F6</a>
-  
+   <pre>
+   <code class="language-python">
+  #Example 2 | Section 2.5 ] 
+A = matrix([[2,4,-1,5,-2],[-4,-5,3,-8,1],[2,-5,-4,1,8],[-6,0,7,-3,1]])
+
+P, L, U = A.LU(pivot='nonzero')
+print(U)
+print(L)
+
+#check
+print(A == L*U)
+
+
+# Practice Problem | Section 2.5
+
+A = matrix([[2,-4,-2,3],[6,-9,-5,8],[2,-7,-3,9],[4,-2,-2,-1],[-6,3,3,4]])
+
+P, L, U = A.LU(pivot='nonzero')
+print(U)
+print(L)
+
+print(A == L*U)
+   </code>
+    </pre>
+
+
   <hr>
 
 
--->
+
 
 <!-- end notes container-->
 </div>
