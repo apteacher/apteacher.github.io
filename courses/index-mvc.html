@@ -29,6 +29,18 @@
  
 <script src="https://www.w3schools.com/lib/w3.js"></script>
 
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+    <script>
+
+    // Make the div with id 'mycell' a Sage cell
+    sagecell.makeSagecell({inputLocation:  '#mycell',
+                           template:       sagecell.templates.minimal,
+                           evalButtonText: 'Activate'});
+    // Make *any* div with class 'compute' a Sage cell
+    sagecell.makeSagecell({inputLocation: 'div.compute',
+                           evalButtonText: 'Evaluate'});
+    </script>
+
 
 </head>
 <body>
@@ -73,9 +85,31 @@
 <div class="container-fluid text-left">
   <h2 id="notes">notes / updates</h2>
   
+<hr>
+<b> November 3, 2025 | Plotting Vector-Valued Functions </b> <br>
+ 
+ <div class="compute">
 
+    <script type="text/x-sage">
+#define variables
+t,x,y,z = var('t x y z')
+
+#define the plot of the helix
+p1 = parametric_plot3d((cos(t), sin(t), t),(t,-5,5), color='red', thickness=3)
+
+#define the plot of the cylinder
+p2 = implicit_plot3d(x^2 + y^2 ==1, (x,-2, 2),(y,-2,2),(z,-5,5),color='blue')
+
+#plot cylinder and helix
+p1+p2
+
+
+</script></div>
+
+<hr>
+    
   <hr>
-  <b> October 15, 2024 | Problem 57, Section 11.5 with SageMath </b> <br>
+  <b> October 15, 2025 | Problem 57, Section 11.5 with SageMath </b> <br>
   <pre>
     <code class="language-python">
       # Section 11.4 | Problem 57
