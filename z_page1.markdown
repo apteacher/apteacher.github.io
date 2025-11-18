@@ -4,6 +4,8 @@ layout: page
 permalink: /profile/
 ---
 
+<p align="center"><img src="../d-img/profile__.jpeg" border="1"> </p>
+
 <strong>about me</strong><br>
 Instructor of upper level mathematics and computer science.<br>
 Interests: mathematics, computer science, technology, and education.<br><br>
